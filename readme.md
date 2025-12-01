@@ -1,4 +1,4 @@
-# Goods Panda - Ecommerce Landing Page
+# Goods Panda - E-commerce Landing Page
 
 <img src="assets/logo.png" style="background-color:white;border-radius:20px;padding:20px">
 
