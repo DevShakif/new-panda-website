@@ -69,7 +69,8 @@
   margin-bottom: 60px;
 }
 #category,
-#shoes {
+#shoes,
+#backpack {
   margin-bottom: 100px;
 }
 .heading {
@@ -142,6 +143,7 @@
 }
 /*! category style end */
 
+/* products section  */
 /* shoes */
 .products-card-container {
   display: flex;
@@ -182,3 +184,12 @@
   max-width: 300px;
 }
 /* shoes style end */
+
+/* backpack */
+.backpack-img img {
+  max-width: 290px;
+  width: 100%;
+}
+/*!backpack ends */
+
+/*!products section ENDS  */
