@@ -25,10 +25,12 @@
   font-family: "Inter", sans-serif;
   cursor: pointer;
 }
-/* .btn-primary:hover {
-  background: ;
-  transition: 1s;
-} */
+.btn-primary:hover {
+  background: rgba(11, 19, 190);
+  font-weight: 900;
+  font-size: 25px;
+  transition: ease-out 1s;
+}
 .product-btn {
   cursor: pointer;
   background: #000000;
@@ -38,6 +40,12 @@
   border: none;
   text-transform: uppercase;
   font-family: "Inter", sans-serif;
+}
+.product-btn:hover {
+  background: rgba(110, 0, 190);
+  font-weight: 900;
+  font-size: 25px;
+  transition: ease-out 0.5s;
 }
 
 /* black button design start */
